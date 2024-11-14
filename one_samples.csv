@@ -1,0 +1,51 @@
+populatin_mean,t_stats,cohens_value,effect,p_val
+10,12.9621,1.8331162970697696,Very large positive effect,0.0
+20,12.4603,1.7621477993125196,Very large positive effect,0.0
+30,11.9584,1.6911793015552694,Very large positive effect,0.0
+40,11.4566,1.6202108037980194,Very large positive effect,0.0
+50,10.9548,1.5492423060407694,Very large positive effect,0.0
+60,10.453,1.4782738082835192,Very large positive effect,0.0
+70,9.9512,1.4073053105262692,Very large positive effect,0.0
+80,9.4493,1.3363368127690192,Very large positive effect,0.0
+90,8.9475,1.265368315011769,Very large positive effect,0.0
+100,8.4457,1.194399817254519,Large positive effect,0.0
+110,7.9439,1.123431319497269,Large positive effect,0.0
+120,7.442,1.0524628217400187,Large positive effect,0.0
+130,6.9402,0.9814943239827687,Large positive effect,0.0
+140,6.4384,0.9105258262255186,Large positive effect,0.0
+150,5.9366,0.8395573284682686,Large positive effect,0.0
+160,5.4347,0.7685888307110185,Medium positive effect,0.0
+170,4.9329,0.6976203329537684,Medium positive effect,0.0
+180,4.4311,0.6266518351965182,Medium positive effect,0.0001
+190,3.9293,0.5556833374392682,Medium positive effect,0.0003
+200,3.4275,0.4847148396820181,Small positive effect,0.0012
+210,2.9256,0.41374634192476806,Small positive effect,0.0052
+220,2.4238,0.34277784416751794,Small positive effect,0.0191
+230,1.922,0.2718093464102679,Small positive effect,0.0604
+240,1.4202,0.2008408486530178,Small positive effect,0.1619
+250,0.9183,0.12987235089576774,Very small or negligible effect,0.3629
+260,0.4165,0.05890385313851765,Very small or negligible effect,0.6789
+270,-0.0853,-0.012064644618732433,Very small or negligible effect,0.9324
+280,-0.5871,-0.08303314237598251,Very small or negligible effect,0.5598
+290,-1.089,-0.1540016401332326,Very small or negligible effect,0.2815
+300,-1.5908,-0.22497013789048267,Small negative effect,0.1181
+310,-2.0926,-0.29593863564773276,Small negative effect,0.0416
+320,-2.5944,-0.3669071334049828,Small negative effect,0.0125
+330,-3.0962,-0.43787563116223294,Small negative effect,0.0032
+340,-3.5981,-0.5088441289194829,Medium negative effect,0.0007
+350,-4.0999,-0.5798126266767331,Medium negative effect,0.0002
+360,-4.6017,-0.6507811244339832,Medium negative effect,0.0
+370,-5.1035,-0.7217496221912333,Medium negative effect,0.0
+380,-5.6054,-0.7927181199484833,Medium negative effect,0.0
+390,-6.1072,-0.8636866177057334,Large negative effect,0.0
+400,-6.609,-0.9346551154629835,Large negative effect,0.0
+410,-7.1108,-1.0056236132202336,Large negative effect,0.0
+420,-7.6127,-1.0765921109774836,Large negative effect,0.0
+430,-8.1145,-1.1475606087347336,Large negative effect,0.0
+440,-8.6163,-1.2185291064919839,Very large negative effect,0.0
+450,-9.1181,-1.2894976042492339,Very large negative effect,0.0
+460,-9.6199,-1.3604661020064839,Very large negative effect,0.0
+470,-10.1218,-1.431434599763734,Very large negative effect,0.0
+480,-10.6236,-1.502403097520984,Very large negative effect,0.0
+490,-11.1254,-1.5733715952782341,Very large negative effect,0.0
+500,-11.6272,-1.6443400930354843,Very large negative effect,0.0
